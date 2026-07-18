@@ -20,7 +20,7 @@
 - 📜 **자격증:** SQLD (SQL 개발자) — 한국데이터산업진흥원 (2026.03)
 - 📍 Seoul, South Korea
 - 📝 **성장일지:** [velog.io/@sxnhx_a](https://velog.io/@sxnhx_a/posts)
-- 📫 **Contact:** seunghakim02@naver.com · 010-3937-5031
+- 📫 **Contact:** seunghakim02@naver.com · seunghakim02@hansung.ac.kr
 
 ---
 
