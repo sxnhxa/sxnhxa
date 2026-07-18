@@ -14,12 +14,13 @@
 
 > 💡 기술을 위한 기술이 아닌, **'사용자 문제 해결'과 '비즈니스 가치 창출'**에 집중합니다.
 
-무거운 코어 AI 모델을 연구하기보다, 적재적소에 기술(API)을 배치하여 사용자가 체감할 수 있는 직관적인 프로덕트를 조립하는 **'기획형 엔지니어'**입니다. 복잡한 데이터의 흐름을 숨기고, 화면 위에는 가장 매끄러운 경험만을 남기는 시스템 뼈대 설계를 즐깁니다.
-
 - 🎓 **한성대학교 AI응용학과** 재학 중
-- 🧩 **Data & System Architecture** · **Applied AI / Backend** · **UI/UX & Prototyping**
-- 📜 **SQLD (SQL 개발자)** — 한국데이터산업진흥원 (2026.03)
-- 📝 성장일지: [Velog](https://velog.io/@sxnhx_a/posts)
+- 🧩 **주요 역량:** Data & System Architecture · Applied AI / Backend · UI/UX & Prototyping
+- 🤖 **관심 분야:** Applied AI · Computer Vision · 데이터 시각화 · 서비스 기획
+- 📜 **자격증:** SQLD (SQL 개발자) — 한국데이터산업진흥원 (2026.03)
+- 📍 Seoul, South Korea
+- 📝 **성장일지:** [velog.io/@sxnhx_a](https://velog.io/@sxnhx_a/posts)
+- 📫 **Contact:** seunghakim02@naver.com · seunghakim02@hansung.ac.kr
 
 ---
 
@@ -52,6 +53,10 @@
 
 ## 🚀 Core Projects
 
+### 🧥 A-IDY — AI 기반 개인화 옷장 관리 & 스타일 추천 서비스 `진행 중`
+`Computer Vision` · `추천 알고리즘` · `서비스 기획` · `Figma`
+전체 서비스 플로우 기획, UI/UX 설계, AI 연동 아키텍처 구상을 담당하고 있습니다.
+
 ### 🗺️ SafeWalk — 공간 데이터 시각화 기반 안전 경로 추천 서비스 `완료`
 `Streamlit` · `Folium` · `데이터 시각화`
 심야 보행자 안전을 위한 우회 경로 시각화 부재 문제를 해결. Folium으로 공간 데이터를 시각화하고 Streamlit으로 누구나 조작 가능한 대시보드 UI/UX를 설계·연동했습니다.
@@ -77,20 +82,3 @@
 | **Weather-Look Checker** | API 기반 TPO 맞춤 패션 추천 대시보드 (`Python`·`Streamlit`·`OpenWeather API`) | [Live](https://weather-look-checker-rmnyvmbmef87jujpbfmict.streamlit.app/) · [Code](https://github.com/sxnhxa/weather-look-checker) |
 | **교내 소모임 챗봇** | LLM API 연동 챗봇 시스템 | [Live](https://project-wine-zeta-92.vercel.app/) |
 | **소모임 공식 홈페이지** | 웹 프론트/백엔드 구조 설계 | [Live](https://sudo-web-final.vercel.app/) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxnhxa&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxnhxa&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
----
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seunghakim02@naver.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@sxnhx_a/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sxnhxa)
