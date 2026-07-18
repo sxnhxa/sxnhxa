@@ -20,7 +20,7 @@
 - 📜 **자격증:** SQLD (SQL 개발자) — 한국데이터산업진흥원 (2026.03)
 - 📍 Seoul, South Korea
 - 📝 **성장일지:** [velog.io/@sxnhx_a](https://velog.io/@sxnhx_a/posts)
-- 📫 **Contact:** seunghakim02@naver.com · seunghakim02@hansung.ac.kr
+- 📫 **Contact:** seunghakim02@naver.com · 010-3937-5031
 
 ---
 
@@ -31,43 +31,49 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / Data**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend / Design / Tools**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
-
-**Design & Tools**
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Core Projects
+## 🚀 Projects
 
-### 🗺️ SafeWalk — 공간 데이터 시각화 기반 안전 경로 추천 서비스 `완료`
-`Streamlit` · `Folium` · `데이터 시각화`
-심야 보행자 안전을 위한 우회 경로 시각화 부재 문제를 해결. Folium으로 공간 데이터를 시각화하고 Streamlit으로 누구나 조작 가능한 대시보드 UI/UX를 설계·연동했습니다.
-
-### 🎨 비전 AI 기반 퍼스널 컬러 진단 시스템 `완료`
-`Computer Vision` · `Python` · `이미지 처리`
-이커머스에서 본인 톤을 몰라 구매를 망설이는 문제를 해결. 비전 AI로 이미지를 분석해 퍼스널 컬러를 자동 분류하고, 진단 결과를 패션 카테고리와 매핑하는 데이터 플로우를 기획했습니다.
-
-### 📱 구독료 누수 방지 앱 (Android) `완료`
-`Android` · `Kotlin` · `데이터 시각화` · `UX 기획`
-매월 새어나가는 '데드 머니'를 잡기 위한 앱. 연간 누적 구독료를 자동 연산해 보여주고, 삭제 시 "절약했다"는 즉각 피드백으로 지출 통제 경험을 극대화했습니다.
-
-### ☕ 카페 재고 자동화 관리 DB 시스템 `완료`
-`Database` · `SQL` · `비즈니스 로직`
-수기 재고 관리로 인한 발주 오차 문제를 해결. 메뉴별 원재료 소모량을 RDB로 모델링해, 주문 시 실시간 재고 차감 및 부족 알림을 주는 자동화 시스템을 ERD부터 설계했습니다.
+| 프로젝트 | 설명 | 기술 | 링크 |
+|:---|:---|:---|:---:|
+| 🗺️ **SafeWalk** | 심야 보행자를 위한 안전 귀가 경로 시각화 서비스 | `Streamlit` `FastAPI` `Folium` `Docker` | [Repo](https://github.com/sxnhxa/safewalk) |
+| 🎨 **퍼스널 컬러 진단** | 얼굴 자동 인식 → 피부 톤 분석 → 4계절 퍼스널 컬러 진단 & 가상 피팅 | `Python` `OpenCV` | [Repo](https://github.com/sxnhxa/personal-color-check) |
+| ☕ **카페 관리 DB** | 주문 시 재고가 자동 차감되는 프랜차이즈 카페 관계형 DB 설계 | `MySQL` `SQL` | [Repo](https://github.com/sxnhxa/cafe-management-db) |
+| 🌱 **식물 질병 분류** | PlantVillage 38종 잎 질병 이미지 분류 (전이학습·Residual CNN) | `PyTorch` `CNN` | [Repo](https://github.com/sxnhxa/plant-disease-classification) |
+| 🎬 **영화 예매 시스템** | 객체지향 계층 구조로 설계한 콘솔 영화 예매 시스템 | `Kotlin` `OOP` | [Repo](https://github.com/sxnhxa/movie-reservation-system) |
+| 💬 **채팅 / 매칭 웹앱** | Socket.IO 기반 실시간 채팅·매칭 웹 애플리케이션 | `Node.js` `Socket.IO` | [Repo](https://github.com/sxnhxa/chat-matching-app) |
 
 ---
 
@@ -78,3 +84,5 @@
 | **Weather-Look Checker** | API 기반 TPO 맞춤 패션 추천 대시보드 (`Python`·`Streamlit`·`OpenWeather API`) | [Live](https://weather-look-checker-rmnyvmbmef87jujpbfmict.streamlit.app/) · [Code](https://github.com/sxnhxa/weather-look-checker) |
 | **교내 소모임 챗봇** | LLM API 연동 챗봇 시스템 | [Live](https://project-wine-zeta-92.vercel.app/) |
 | **소모임 공식 홈페이지** | 웹 프론트/백엔드 구조 설계 | [Live](https://sudo-web-final.vercel.app/) |
+
+---
