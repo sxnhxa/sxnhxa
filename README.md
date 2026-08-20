@@ -26,8 +26,6 @@
 
 ## 🛠️ Tech Stack
 
-기술을 **설명할 수 있는 정도**에 따라 나눴습니다.
-
 **주로 사용합니다**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,5 +69,5 @@
 | **퍼스널 컬러 진단** | 얼굴 자동 인식 → 피부 톤 분석 → 4계절 퍼스널 컬러 진단 | `Python` `OpenCV` | 학교 과제 | [Repo](https://github.com/sxnhxa/personal-color-check) |
 | **식물 질병 분류** | PlantVillage 38종 잎 질병 이미지 분류 (전이학습·Residual CNN) | `PyTorch` `CNN` | 학교 과제 | [Repo](https://github.com/sxnhxa/plant-disease-classification) |
 | **영화 예매 시스템** | 객체지향 계층 구조로 설계한 콘솔 영화 예매 시스템 | `Kotlin` `OOP` | 학교 과제 | [Repo](https://github.com/sxnhxa/movie-reservation-system) |
-| **채팅 / 매칭 웹앱** | Socket.IO 기반 실시간 채팅·매칭 웹 애플리케이션 | `Node.js` `Socket.IO` | 팀 | [Repo](https://github.com/sxnhxa/chat-matching-app) |
-| **교내 소모임 챗봇** | LLM API 연동 챗봇 시스템 | `LLM API` | 팀 | [Live](https://project-wine-zeta-92.vercel.app/) |
+| **채팅 / 매칭 웹앱** | Socket.IO 기반 실시간 채팅·매칭 웹 애플리케이션 | `Node.js` `Socket.IO` | 팀(5인) | [Repo](https://github.com/sxnhxa/chat-matching-app) |
+| **교내 소모임 챗봇** | LLM API 연동 챗봇 시스템 | `LLM API` | 팀(4인) | [Live](https://project-wine-zeta-92.vercel.app/) |
