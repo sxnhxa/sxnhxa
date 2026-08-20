@@ -65,9 +65,9 @@
 | **SUDO 공식 홈페이지** | 교내 CS/AI 소모임 웹사이트. **DB 설계·구현 담당** | `React` `Express` `MySQL` | 팀 (3인) | [Repo](https://github.com/sxnhxa/sudo-web) |
 | **dotdotdot** | 단골 카페에 QR로 적용했던 메뉴 안내 웹 | `Streamlit` `Plotly` | 개인 | [Live](https://dotdotdot-menu.streamlit.app/) · [Repo](https://github.com/sxnhxa/dotdotdot) |
 | **Weather-Look Checker** | 날씨 API 기반 TPO 맞춤 패션 추천 대시보드 | `Streamlit` `OpenWeather API` | 개인 | [Live](https://weather-look-checker-rmnyvmbmef87jujpbfmict.streamlit.app/) · [Repo](https://github.com/sxnhxa/weather-look-checker) |
-| **카페 관리 DB** | 주문 시 재고가 자동 차감되는 프랜차이즈 카페 관계형 DB 설계 | `MySQL` `SQL` | 학교 과제 | [Repo](https://github.com/sxnhxa/cafe-management-db) |
-| **퍼스널 컬러 진단** | 얼굴 자동 인식 → 피부 톤 분석 → 4계절 퍼스널 컬러 진단 | `Python` `OpenCV` | 학교 과제 | [Repo](https://github.com/sxnhxa/personal-color-check) |
-| **식물 질병 분류** | PlantVillage 38종 잎 질병 이미지 분류 (전이학습·Residual CNN) | `PyTorch` `CNN` | 학교 과제 | [Repo](https://github.com/sxnhxa/plant-disease-classification) |
-| **영화 예매 시스템** | 객체지향 계층 구조로 설계한 콘솔 영화 예매 시스템 | `Kotlin` `OOP` | 학교 과제 | [Repo](https://github.com/sxnhxa/movie-reservation-system) |
+| **카페 관리 DB** | 주문 시 재고가 자동 차감되는 프랜차이즈 카페 관계형 DB 설계 | `MySQL` `SQL` | 학교 과제(3인) | [Repo](https://github.com/sxnhxa/cafe-management-db) |
+| **퍼스널 컬러 진단** | 얼굴 자동 인식 → 피부 톤 분석 → 4계절 퍼스널 컬러 진단 | `Python` `OpenCV` | 학교 과제(개인) | [Repo](https://github.com/sxnhxa/personal-color-check) |
+| **식물 질병 분류** | PlantVillage 38종 잎 질병 이미지 분류 (전이학습·Residual CNN) | `PyTorch` `CNN` | 학교 과제(2인) | [Repo](https://github.com/sxnhxa/plant-disease-classification) |
+| **영화 예매 시스템** | 객체지향 계층 구조로 설계한 콘솔 영화 예매 시스템 | `Kotlin` `OOP` | 학교 과제(3인) | [Repo](https://github.com/sxnhxa/movie-reservation-system) |
 | **채팅 / 매칭 웹앱** | Socket.IO 기반 실시간 채팅·매칭 웹 애플리케이션 | `Node.js` `Socket.IO` | 팀(5인) | [Repo](https://github.com/sxnhxa/chat-matching-app) |
 | **교내 소모임 챗봇** | LLM API 연동 챗봇 시스템 | `LLM API` | 팀(4인) | [Live](https://project-wine-zeta-92.vercel.app/) |
